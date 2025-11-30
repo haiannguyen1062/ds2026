@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyễn Hải An
 * Student ID: 22BA13003
-* Student Group ID: Not-for-now
+* Student Group ID: 20
